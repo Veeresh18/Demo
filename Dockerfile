@@ -3,7 +3,7 @@ FROM alpine:3.10
 
 
 
-LABEL maintainer = "santosh.pai@inspiraenterprise.com"
+LABEL maintainer = "veeresh.patil@inspiraenterprise.com"
 
 
 
